@@ -2,9 +2,7 @@
 
 My name is Rithesh Gopal, and I am passionate about building software solutions that positively impact millions.
 
-Connect:
-
-<a href="https://www.linkedin.com/in/rithesh-gopal-3b0015112/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Feel free to connect with me on:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rithesh-gopal-3b0015112/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Languages:
 
